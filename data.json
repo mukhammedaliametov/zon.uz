@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "title": "Болгарка (УШМ) 180 мм Metabo WEPBA 19-180",
+        "price": "4 194 000 сум",
+        "img": "https://i.ibb.co/xtW0Qzvg/41adf0e7e7465fef6df80b3abcae33f187638dae.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Небулайзер Ulaizer Air+VP-D2",
+        "price": "550 000 сум",
+        "img": "https://i.ibb.co/LdcBmNL3/Ulaizer-Air-VP-D2.png"
+    },
+    {
+        "id": "3",
+        "title": "Строительный фен Hikoki RH650V",
+        "price": "1 100 000 сум",
+        "img": "https://i.ibb.co/JF2tm2jn/Hikoki-RH650-V.png"
+    },
+    {
+        "id": "4",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 16 AMD Ryzen-7",
+        "price": "14 750 000 сум",
+        "img": "https://i.ibb.co/KpgwyJYd/Lenovo-Idea-Pad-Gaming-3-16-AMD-Ryzen-7-6800-H-16-DDR5-512-SSD-82-SC0046-RK.png"
+    },
+    {
+        "id": "5",
+        "title": "Ударная дрель Metabo SBE 650",
+        "price": "1 020 000 сум",
+        "img": "https://i.ibb.co/3mXJb82y/Metabo-SBE-650.png"
+    },
+    {
+        "id": "6",
+        "title": "Паркетный лак 13 кг Sobsan Sobvernik Parket",
+        "price": "800 000 сум",
+        "img": "https://i.ibb.co/Zp7RtM4D/13-Sobsan-Sobvernik-Parket-Laki-M.png"
+    },
+    {
+        "id": "7",
+        "title": "Пятискоростная болгарка (УШМ) 125мм Makita",
+        "price": "7 250 000 сум",
+        "img": "https://i.ibb.co/Zp7RtM4D/13-Sobsan-Sobvernik-Parket-Laki-M.png"
+    },
+    {
+        "id": "8",
+        "title": "Болгарка (УШМ) 125 мм Metabo WEV 10-125 Quick",
+        "price": "2 462 000 сум",
+        "img": "https://i.ibb.co/hJSRV67q/125-Metabo-WEV-10-125-Quick.png"
+    },
+    {
+        "id": "9",
+        "title": "Компрессорный ингалятор Ulaizer Home CN-02MY",
+        "price": "470 000 сум",
+        "img": "https://i.ibb.co/KxJnW9mq/Ulaizer-Home-CN-02-MY.png"
+    },
+    {
+        "id": "10",
+        "title": "Электронные детские весы Electronic Baby Scale",
+        "price": "1 500 000 сум",
+        "img": "https://i.ibb.co/20PT4GXv/Electronic-Baby-Scale.png"
+    },
+    {
+        "id": "11",
+        "title": "Болгарка (УШМ) 115мм Hikoki G12SS2",
+        "price": "690 000 сум",
+        "img": "https://i.ibb.co/JjKJ6XFj/115-Hikoki-G12-SS2.png"
+    },
+    {
+        "id": "12",
+        "title": "Аккумуляторная отвертка Alteco CC 0416",
+        "price": "380 000 сум",
+        "img": "https://i.ibb.co/F4k2sHvv/Alteco-CC-0416.png"
+    },
+    {
+        "id": "13",
+        "title": "Тепловая пушка Alteco TVC 2000",
+        "price": "540 000 сум",
+        "img": "https://i.ibb.co/hxh52zQf/Alteco-TVC-2000.png"
+    },
+    {
+        "id": "14",
+        "title": "Строительный фен Makita HG6530VK",
+        "price": "1 720 000 сум",
+        "img": "https://i.ibb.co/qMVg1kQ2/Makita-HG6530-VK.png"
+    },
+    {
+        "id": "15",
+        "title": "Смартфон Infinix Hot 12i X665B 6.82″ 64GB черный",
+        "price": "1 650 000 сум",
+        "img": "https://i.ibb.co/cc3xB0sb/Infinix-Hot-12i-X665-B-6-82-64-GB.png"
+    },
+    {
+        "id": "16",
+        "title": "Импульсный шуруповёрт Bosch GDR 12V-105",
+        "price": "3 550 000 сум",
+        "img": "https://i.ibb.co/tPLzw452/Bosch-GDR-12-V-105.png"
+    },
+    {
+        "id": "17",
+        "title": "Автомобиль Chevrolet Tracker 2 TRK LS Plus 1.2",
+        "price": "223 824 000 сум",
+        "img": "https://i.ibb.co/6Jw2fPLn/Chevrolet-Tracker-2-TRK-LS-Plus-1-2-132.png"
+    },
+    {
+        "id": "18",
+        "title": "Ультразвуковой ингалятор Yuwell 402AI",
+        "price": "1 050 000 сум",
+        "img": "https://i.ibb.co/wrS9sJJQ/Yuwell-402-AI.png"
+    }
+]
